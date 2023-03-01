@@ -1,0 +1,17 @@
+#Start Eureka Server Configuration
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+  server:
+    waitTimeInMsWhenSyncEmpty: 0
+#End Eureka Server Configuration
+
+#Start Application Configuration
+server:
+  port: 8761
+spring:
+  application:
+     name: AMAZON-SERVER 
+#End Application Configuration
+     

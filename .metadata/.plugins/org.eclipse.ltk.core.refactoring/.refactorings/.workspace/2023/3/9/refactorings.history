@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;payment-service - Copy&apos; to &apos;amazon-shopping&apos;" description="Rename resource &apos;payment-service - Copy&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/payment-service - Copy" name="amazon-shopping" stamp="1677651057118" updateReferences="true"/>
+</session>
